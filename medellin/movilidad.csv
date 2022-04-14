@@ -1,0 +1,5 @@
+ID,CONCEPT,DESCRIPTION,VALUE IN COP
+0,taxi ride from airport,"taxi ride from the airport to any part of medellin, this value includes the toll to the airport","$90,000.00"
+1,short distance taxi ride,lowest value for a short distance taxi ride,"$5,800.00"
+2,hire a taxi for 1 hour,during this time it is possible to make several stops in different places,"$25,500.00"
+3,increase in value in a taxi trip,"this increment is based on distance, increases every 78 meters",$120.00
